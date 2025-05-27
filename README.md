@@ -50,8 +50,8 @@ Insurance-Fraud-Detection-Project/
 
 ## 📁 Dataset Source
 
-> The dataset used in this project is publicly available.  
-> [Insert dataset source link here — e.g., https://www.kaggle.com/datasets/mamtadhaker/health-insurance-cross-sell-prediction]
+> The dataset used in this project is publicly available on Kaggle.  
+
 
 ---
 
